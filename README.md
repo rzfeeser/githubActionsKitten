@@ -11,7 +11,7 @@ To control whether the workflow runs the ASCII kitten script, simply change the 
 
 ```yaml
 env:
-	ASCII_KITTEN: "true"   # change to "true" or "false" to run or skip running kitten.sh
+    ASCII_KITTEN: "true"   # change to "true" or "false" to run or skip running kitten.sh
 ```
 
 - Set `ASCII_KITTEN: "true"` to run the `kitten.sh` script when the workflow is triggered by a push to the `main` branch.
