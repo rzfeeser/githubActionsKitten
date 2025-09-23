@@ -14,7 +14,7 @@ jobs:
     # use ${{ env.ASCII_KITTEN }} to process with GitHub Actions
     # use $ASCII_KITTEN to process with Runner Operating System 
     env:
-      ASCII_KITTEN: "false"   # change to "false" to skip running kitten.sh
+      ASCII_KITTEN: "true"   # change to "true" or "false" to run or skip running kitten.sh
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
