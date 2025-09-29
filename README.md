@@ -35,7 +35,7 @@ Created and maintained by [RZFeeser](https://github.com/RZFeeser).
 
 - Website: [rzfeeser.com](https://rzfeeser.com)
 - Projects & Training: [iris7.com](https://iris7.com)
-- GitHub: [RZFeeser](https://github.com/RZFeeser)
+- GitHub: [GitHub.com/RZFeeser](https://github.com/RZFeeser)
 
 ## Note
 
